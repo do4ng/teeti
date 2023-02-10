@@ -24,6 +24,8 @@ export interface Options {
   paddingLeftRight?: number;
   style?: BoxStyle;
 
+  displayCenter?: boolean;
+
   minWidth?: number;
 }
 
