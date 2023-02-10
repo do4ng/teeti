@@ -1,10 +1,11 @@
 {
   "name": "teeti",
   "description": "Terminal Box for nodejs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "types": "./index.d.ts",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.js",
+  "repository": "https://github.com/do4ng/teeti",
   "files": [
     "dist",
     "index.d.ts"
